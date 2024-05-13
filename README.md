@@ -27,7 +27,7 @@ This is a python package hosted on pypi, so to install simply run the following 
 
 ## Usage example :eyes:
 
-To pull a dataframe containing all the information for a particular league, the following example can be used:
+To pull a dataframe containing all the candles for a coinbase product:
 
 ```python
 import datetime
