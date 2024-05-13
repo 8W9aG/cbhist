@@ -1,0 +1,3 @@
+include requirements.txt
+recursive-include cbhist *.py
+recursive-include cbhist *.csv
